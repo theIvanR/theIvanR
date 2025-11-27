@@ -1,4 +1,4 @@
-## Hi there 👋(this needs work)
+## Hey! I'm Ivan and welcome to my github page 🤙
 
 <!--
 **theIvanR/theIvanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
