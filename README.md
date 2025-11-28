@@ -1,10 +1,13 @@
-## Hey! I'm Ivan — welcome to my GitHub 🤙
+### 👋 About Me
+Hi! I'm Ivan — a researcher and tinkerer exploring the intersection of computation and hardware.
 
-I'm a researcher working on:
-- Applied topological analysis for computational DSP methods  
-- High-performance computing systems
-- Fast backend architectures for audio, image sequences, and signal ensembles  
-- Hardware experiments, microcontrollers, and strange systems-level projects  
+- **Applied topological analysis** for computational DSP methods  
+- **High-performance computing systems** for audio, image sequences, and signal ensembles  
+- **Fast backend architectures** for large-scale signal processing  
+- **Hardware experiments & microcontrollers**, plus unusual systems-level projects  
 
 ### 📄 Resume
 [Download my resume (PDF)](resume.pdf)
+
+### 💼 Job Availability
+- Open to opportunities — available upon request
