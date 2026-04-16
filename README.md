@@ -26,4 +26,4 @@ I treat problems as objects in **functor categories** between structured spaces.
 
 ### 💼 Availability
 
-Open to opportunities — available upon request. (Yes, I will talk category theory in interviews. No, I will not apologise.)
+Open to opportunities — available upon request.
